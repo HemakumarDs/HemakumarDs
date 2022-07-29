@@ -1,0 +1,10 @@
+{
+	"type" : "record",
+	"name" : "person",
+	"namespace" :com.examplebyspark",
+	"fields" : [
+				{"name" : "NAME", "type" : "string"},
+				{"name" : "DEPT", "type" : "string"},
+				{"name" : "SALARY","type" : "int"}
+				]
+}				
